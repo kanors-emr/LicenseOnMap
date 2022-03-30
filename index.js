@@ -1,6 +1,4 @@
-d3.csv("CountryLicense.csv", function(data) {
-    createWorldMap(data);
-});
+load();
 
 
 var colorForNa = "whitesmoke";
@@ -37,6 +35,12 @@ var regionWithColor = {
     '-': colorForNa
 };
 
+function load() {
+    d3.csv("CountryLicense.csv", function(data) {
+        createWorldMap(data);
+    });
+
+}
 
 function createWorldMap(oDataClas) {
 
@@ -122,10 +126,49 @@ function createWorldMap(oDataClas) {
             .datum(topojson.mesh(arrWorldCountriesData.features, (a, b) => a.id !== b.id))
             .attr('class', 'names')
             .attr('d', path);
+
+
+        svg.selectAll(".stateText")
+            .data(arrWorldCountriesData.features)
+            .enter().append("text")
+            .attr("class", "stateText")
+            .attr("x", function(d) {
+                return path.centroid(d)[0];
+            })
+            .attr("y", function(d) {
+                return path.centroid(d)[1];
+            })
+            .attr("text-anchor", "middle")
+            // .attr("font-size", "12px")
+            .text(function(d) {
+                if (d.countryData !== null) {
+                    return (` ${parseInt(d.countryData.Total)}`);
+                } else {
+                    return "";
+                }
+            })
+
+
+        createCountryDataInTable(arrWorldCountriesData.features)
+
     }
 
 }
 
+function createCountryDataInTable(oTblCountryData) {
+    var html = ['<tr><th>Country</th><th>Count</th></tr>'];
+    var tbl = document.getElementById("tblCountryData");
+    // tbl.classList.add("table");
+    // tbl.classList.add("table-striped table-hover");
+    tbl.className = "table table-striped table-hover";
+
+    oTblCountryData.forEach(d => {
+        if (d.countryData !== null) {
+            html.push(`<tr><td>${d.countryData.Country}</td><td>${parseInt(d.countryData.Total)}</td></tr>`);
+        }
+    });
+    tbl.innerHTML = html.join("");
+}
 
 function filterSelected(population, d) {
 

@@ -33361,7 +33361,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "USA"
+                "name": "United States of America"
             },
             "geometry": {
                 "type": "MultiPolygon",
