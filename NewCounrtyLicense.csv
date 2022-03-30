@@ -1,0 +1,841 @@
+LicenseID,LicenseModel,Company,Country,CustomerID
+50,trial,E4SMA,Italy,7
+58,trial,E4SMA,Italy,8
+59,trial,E4SMA,Italy,8
+66,trial,VTT,Finland,10
+67,trial,LuleÜ University of Technology,Sweden,11
+76,trial,Ajou university,South Korea,12
+77,trial,UCC,Ireland,13
+78,trial,NVE,Norway,14
+79,trial,NVE,Norway,15
+80,trial,Tsinghua University,China,16
+83,trial,US EPA,United States of America,17
+84,trial,US EPA,United States of America,17
+86,trial,CSIRO,Australia,18
+87,trial,CSIRO,Australia,18
+88,trial,CSIRO,Australia,19
+91,trial,GIZ,Kazakhstan,20
+92,trial,DecisionWare Inc,United States of America,21
+93,trial,ENEA,Italy,22
+94,trial,ETSAP,Greece,23
+95,trial,UCL Energy Institute,United Kingdom,24
+97,trial,MaREI-UCC,Ireland,25
+98,trial,SGCERI,China,26
+105,trial,CIEMAT,Spain,27
+106,trial,Imperial College London,United Kingdom,28
+107,trial,MaREI-UCC,Ireland,25
+108,trial,IVL Svenska Miljîinstitutet,Sweden,29
+109,trial,ESMIA,Canada,30
+110,trial,Sustainable Development Centre Remissia,Georgia,31
+111,trial,MITRE Corporation,United States of America,32
+112,trial,European Commission,Spain,33
+113,trial,Enel,Italy,34
+114,trial,MITRE,United States of America,35
+115,trial,MITRE,United States of America,36
+116,trial,EECA,New Zealand,37
+117,trial,IFP Energies Nouvelles,France,38
+118,trial,Technical University of Denmark (DTU),Denmark,39
+119,trial,Asian Institute of Technology,Thailand,40
+120,trial,EECA,New Zealand,41
+121,trial,Danish Energy Agency,Denmark,42
+122,trial,Commonwealth Scientific and Industrial Research Or,Australia,43
+123,trial,CIEMAT,Spain,44
+124,trial,Energy Efficiency and Conservation Authority,New Zealand,45
+125,trial,International Energy Agency,France,46
+129,trial,VITO,Belgium,47
+130,trial,CMA,France,48
+131,trial,University College Cork,Ireland,49
+132,trial,Asian Institute of Technology,Thailand,50
+133,trial,CMA,France,48
+134,trial,CIEMAT,Spain,27
+135,trial,International School of Economics,Georgia,51
+136,trial,UNDP,Japan,52
+137,trial,ISET PI,Georgia,53
+138,trial,CMA,France,48
+139,trial,SEU,Afghanistan,54
+140,trial,E Co. Ltd,Belgium,55
+141,trial,REC Caucasus,Georgia,56
+142,trial,UET Taxila,Pakistan,57
+143,trial,World Experience for Georgia,Georgia,58
+144,trial,Energy Modelling Lab ApS,Denmark,59
+145,trial,U.S. EIA,United States of America,60
+146,trial,Ministry of Environmental Protection and Agricultu,Georgia,61
+147,trial,Ministry of Environmental Protection and Agricultu,Georgia,61
+148,trial,U.S. Energy Information Administration,United States of America,62
+149,trial,Comillas University,Spain,63
+150,trial,IEA,France,64
+151,trial,Chalmers University of Technology,Sweden,65
+152,trial,ENEA,Italy,66
+153,trial,Energy Information Administration,United States of America,67
+154,trial,CMA,France,48
+155,trial,Chalmers University,Sweden,68
+156,trial,Asian Institute of Technology,Nepal,69
+157,trial,CRES,Greece,70
+158,trial,U.S. Energy Information Administration,United States of America,71
+159,trial,tehran university,Iran,72
+160,trial,tehran university,Iran,73
+161,trial,tehran university,Iran,73
+162,trial,tehran university,Iran,73
+163,trial,tehran university,Iran,73
+164,trial,Energy Modelling Lab,Denmark,74
+165,trial,LDK Consultants,Serbia,75
+166,trial,EIA,United States of America,76
+167,trial,UCC,Ireland,77
+168,trial,DEA,Denmark,78
+169,trial,Tsinghua,China,79
+170,trial,SGERI,China,80
+171,trial,SGERI,China,81
+172,trial,SGERI,China,82
+173,trial,University of Stuttgart,Germany,83
+174,trial,UCC,Ireland,84
+175,trial,University College Cork,Ireland,85
+176,trial,Joint Research Centre - European Commission,Spain,86
+177,trial,E4SMA,Italy,87
+178,trial,CIEMAT,Spain,88
+179,trial,BEIS,United Kingdom,89
+180,trial,"Department for Business, Energy and Industrial Str",United Kingdom,90
+181,trial,ENEA,Italy,91
+182,trial,Danish Energy Agency,Denmark,92
+183,trial,Danish Energy Agency,Denmark,93
+184,trial,Energistyrelsen,Denmark,94
+185,trial,CRES,Greece,95
+186,trial,RSE,Italy,96
+187,trial,CMA,France,48
+188,trial,University of Oulu,Finland,97
+189,trial,DEA,Denmark,98
+190,permanent,Sustainable Development Centre Remissia,Georgia,31
+192,trial,Danish Energy Agency,Denmark,99
+193,trial,Enel,Italy,34
+194,trial,Slovak hydrometeorological institute,Slovakia,100
+195,trial,UET Taxila,Pakistan,101
+196,trial,IFE,Norway,102
+197,permanent,Ulster University,United Kingdom,103
+198,trial,U.S. EIA,United States of America,104
+200,trial,IVL,Sweden,106
+201,trial,E4SMA,Italy,7
+202,trial,Isdefe,Spain,107
+203,trial,LuleÜ University of Technology,Sweden,108
+204,trial,IFP Energies Nouvelles,France,38
+205,trial,Ministry of Economy and Sustainable Development of,Georgia,109
+206,trial,Carbon Limits AS,Norway,110
+207,trial,Ministry of Economy and Sustainable Development of,Georgia,111
+208,trial,EC,Italy,112
+209,trial,IFE,Norway,113
+210,trial,WEG,Georgia,114
+211,trial,Paul Scherrer Institute,Switzerland,115
+212,trial,Tsinghua University,China,116
+214,trial,KTH Royal Institute of Technology,Sweden,117
+215,trial,VTT,Finland,10
+216,trial,University of Texas at Austin,United States of America,118
+217,trial,E4SMA srl,Italy,119
+218,trial,Copenhagen University,Denmark,120
+219,trial,VTT,Finland,10
+220,trial,Danish Energy Agency,Denmark,121
+221,trial,grtgaz,France,122
+222,trial,IFE,Norway,113
+223,permanent,Department of Energy Efficiency and Environment (E,Turkey,123
+224,trial,Danish Energy Agency,Denmark,124
+225,trial,Danish Energy Agency,Denmark,125
+226,trial,IFE,Norway,126
+227,trial,Danish energy agency,Denmark,127
+228,trial,EML,Denmark,128
+229,trial,Energy Modelling Lab,Denmark,129
+230,trial,Energy Modelling Lab ,Denmark,130
+231,trial,Isik University,Turkey,131
+232,trial,Tsinghua University,China,132
+233,trial,NMBU,Norway,133
+234,trial,Isik University,Turkey,131
+235,trial,Energistyrelsen,Denmark,134
+236,trial,Danish Energy Agency,Denmark,135
+237,trial,UiO,Norway,136
+238,trial,Institute for Research in Technology (Comillas Pon,Spain,137
+239,trial,ajou university,South Korea,138
+240,permanent,University of Oulu,Finland,97
+243,trial,MELCC,Canada,139
+244,trial,Ministäre des finances du QuÇbec,Canada,140
+245,trial,MFQ,Canada,141
+246,trial,Charles University,Czech Republic,142
+247,trial,ITU,Turkey,143
+248,trial,Istanbul Technical University,Turkey,144
+249,trial,Istanbul Technical University,Turkey,144
+250,trial,Istanbul Technical University,Turkey,144
+251,trial,Istanbul Technical University,Turkey,144
+252,trial,Danish Energy Agency,Denmark,99
+253,trial,CERGE-EI,Czech Republic,145
+254,trial,VTT,Finland,146
+255,trial,IER,Germany,147
+256,trial,Institute of Energy Economics and Rational Energy ,Germany,148
+257,trial,Ajou university,South Korea,12
+258,trial,ClimateWorks Australia,Australia,149
+259,trial,Gauss,Spain,150
+260,trial,CIEMAT,Spain,151
+261,trial,Ministry of Innovation and Technology (Hungary),Hungary,152
+262,trial,Institute of Energy Economics and Rational Energy ,Germany,153
+263,trial,Ministäre des Finances du QuÇbec,Canada,154
+264,trial,University of Stuttgart,Germany,155
+265,trial,academic,Iran,156
+266,trial,Imperial College London,United Kingdom,157
+267,trial,qom university,Iran,158
+268,trial,IER Uni Stuttgart,Germany,159
+269,trial,Tsinghua,China,79
+270,trial,UiO,Norway,136
+271,trial,CMA,France,48
+272,trial,CMA,France,48
+273,trial,Imperial College London,United Kingdom,157
+274,trial,ESMIA,Canada,30
+275,trial,ESMIA,Canada,160
+281,trial,Ajou university,South Korea,12
+282,trial,Imperial College London,United Kingdom,161
+283,trial,Isdefe,Spain,107
+284,trial,Imperial College London,United Kingdom,161
+285,trial,a2,Iran,162
+287,trial,Centre for Renewable Energy Sources and Saving,Greece,163
+288,trial,University of Stuttgart,Germany,164
+289,trial,Innothink,South Korea,165
+290,trial,Ministäre des Finances du QuÇbec,Canada,166
+291,trial,RSE,Italy,167
+292,trial,CII,India,168
+293,trial,CMA,France,48
+294,trial,CMA,France,48
+295,trial,IFPEN,France,169
+296,trial,IFPEN,France,170
+297,trial,Riga Technical University,Latvia,171
+298,trial,Charles University,Czech Republic,142
+299,trial,EIA,United States of America,172
+300,trial,EIA,United States of America,173
+301,trial,Riga Technical university,Latvia,174
+302,trial,Integrated Research and Action for Development,India,175
+303,trial,Isdefe,Spain,176
+304,trial,LuleÜ University of Technology,Sweden,177
+305,permanent,E4SMA,Italy,7
+307,trial,Hanyang University,South Korea,178
+308,trial,IFE,Norway,102
+309,trial,Charles University,Czech Republic,142
+310,trial,tehran,Iran,179
+311,trial,NOVA FCT,Portugal,180
+312,trial,Defra / BEIS,United Kingdom,181
+313,trial,VITO,Belgium,182
+315,trial,IVL Svenska Miljîinstitutet AB,Sweden,183
+319,trial,Universidad Pontificia de Comillas,Spain,184
+320,trial,LuleÜ University of Technology,Sweden,185
+321,trial,IIT,Spain,186
+322,trial,University of Texas at San Antonio,United States of America,187
+334,permanent,CSIRO,Australia,18
+335,permanent,VITO NV,Belgium,190
+336,permanent,Danish Energy Agency,Denmark,124
+337,permanent,VTT,Finland,10
+338,permanent,MINES ParisTech,France,191
+339,permanent,IER,Germany,147
+340,permanent,Centre for Renewable Energy Sources and Saving,Greece,163
+341,permanent,University College Cork,Ireland,192
+342,permanent,RSE,Italy,193
+343,permanent,IEEJ,Japan,194
+344,permanent,Nazarbayev University,Kazakhstan,195
+345,permanent,Korea Energy Agency,South Korea,196
+346,permanent,TNO,Netherlands,197
+347,permanent,Climate Change Commission,New Zealand,198
+348,permanent,Institute for Energy Technology,Norway,199
+349,permanent,CIEMAT,Spain,27
+350,permanent,Chalmers University of Technology,Sweden,200
+351,permanent,PSI,Switzerland,201
+352,permanent,BEIS,United Kingdom,202
+353,permanent,ENEL Foundation,Italy,203
+354,permanent,ESMIA,Canada,30
+355,permanent,VTT,Finland,204
+356,trial,Lulea University of Thechnology,Sweden,205
+357,trial,LuleÜ University of Technology  ,Sweden,206
+363,trial,EIA,United States of America,207
+364,trial,EIA,United States of America,207
+365,permanent,Makerere University Kampala,Uganda,208
+366,permanent,imperial college london,United Kingdom,209
+367,permanent,ClimateWorks Australia,Australia,149
+368,permanent,LuleÜ University of Technology,Sweden,11
+369,permanent,Ecole de technologie superieure,Canada,211
+370,permanent,NVE,Norway,15
+371,permanent,The University of Texas at Austin,United States of America,212
+372,permanent,INER,Taiwan,213
+373,permanent,ITRI,Taiwan,214
+374,permanent,West Virginia University,United States of America,215
+375,permanent,EPA,United States of America,216
+376,permanent,NETL,United States of America,217
+377,permanent,CMA,France,48
+379,permanent,EDF,France,219
+380,permanent,Riga Technical University,Latvia,171
+381,permanent,The University of Texas at Austin,United States of America,221
+382,permanent,MITRE Corporation,United States of America,32
+383,permanent,Quebec's Ministry of Finances,Canada,222
+384,permanent,UNAM,Mexico,223
+385,permanent,SPW-Energie,Belgium,224
+387,permanent,Asian Institute of Technology,Thailand,226
+388,permanent,Mitsubishi Research Institute,Japan,227
+389,permanent,Deloitte Tohmatsu Consulting,Japan,228
+390,permanent,AIST,Japan,229
+391,permanent,Ministry of Mining and Energy,Serbia,230
+392,permanent,Energy and Climate Change Analysis,Scotland,231
+393,permanent,Agencja Rynku Energii S.A.,Poland,232
+394,permanent,Fraunhofer ISI,Germany,233
+395,permanent,Brunel University London,United Kingdom,234
+396,permanent,Slovak hydrometeorological institute,Slovakia,100
+397,permanent,Isik University,Turkey,131
+398,permanent,Nagasaki University,Japan,235
+399,permanent,IAE,Japan,236
+400,permanent,Western Balkans Green Center,Hungary,237
+401,permanent,Politecnico di Torino,Italy,238
+402,permanent,IER,Germany,147
+403,permanent,Austrian Energy Agency,Austria,239
+404,permanent,NTNU University,Norway,240
+405,permanent,QEERI,Qatar,241
+406,permanent,National Grid,United Kingdom,242
+407,permanent,CEA,France,295
+408,permanent,GERAD,Canada,244
+409,permanent,Ajou university,South Korea,12
+410,permanent,VITO NV,Belgium,190
+411,permanent,IFP Energies Nouvelles,France,38
+412,permanent,KOTI,South Korea,245
+413,permanent,NOVA FCT,Portugal,180
+414,permanent,JSC Zhasyl Damu,Kazakhstan,225
+415,permanent,University of Groningen,Netherlands,247
+416,permanent,Tsinghua University,China,248
+417,permanent,BEIS,United Kingdom,202
+418,permanent,SEDA,Bulgaria,249
+419,permanent,50118594f,Spain,250
+420,permanent,University of Genoa,Italy,251
+421,permanent,Universitas Indonesia,Indonesia,252
+422,permanent,UNU-GTP,Iceland,253
+423,permanent,ENEA,Italy,22
+424,permanent,UCL,United Kingdom,254
+425,permanent,ETSAP,Greece,23
+427,trial,IFPEN,France,170
+428,trial,U.S. Energy Information Administration,United States of America,255
+430,trial,The University of Texas at El Paso,United States of America,256
+431,trial,IVL,Sweden,106
+432,trial,DecisionWare Group,United States of America,257
+433,trial,korea,South Korea,258
+434,trial,DecisionWare Inc,United States of America,21
+435,trial,Syddansk Universitet,Denmark,259
+436,trial,SDU,Denmark,260
+437,trial,Tsinghua University,China,261
+438,trial,Tsinghua University,China,262
+439,permanent,U.S. EIA,United States of America,60
+440,trial,Charles University,Czech Republic,142
+441,trial,Syddansk Universitet Odense,Denmark,263
+442,trial,SDU,Denmark,264
+445,trial,Nanyang Technological University,Singapore,265
+446,trial,ISDEFE,SPAIN,266
+447,trial,U.S. EIA,United States of America,104
+448,trial,University Ouaga 2,Burkina Faso,267
+449,trial,Vrije Universiteit Amsterdam,Netherlands,268
+450,permanent,DecisionWare Inc,United States of America,21
+451,permanent,Korea Institute of Energy Research,South Korea,269
+452,permanent,Charles University,Czech Republic,142
+453,permanent,Danish Energy Agency,Denmark,270
+454,trial,UiO,Norway,136
+455,trial,Instituto Superior TÇcnico,Portugal,271
+456,permanent,Enel,Italy,34
+457,trial,Energy Modelling Lab,Denmark,74
+458,trial,UCC,Ireland,84
+459,trial,The University of Texas at El Paso,United States of America,272
+460,trial,PBL,Netherlands,273
+461,trial,grtgaz,France,122
+462,trial,Energy Modelling Lab ApS,Denmark,59
+463,permanent,EML,Denmark,128
+464,trial,Technical University,Bulgaria,274
+465,trial,University College Cork,Ireland,85
+466,trial,Dalian University of Technology,China,275
+467,trial,University College Cork,Ireland,85
+468,trial,Dalian University of Technology,China,275
+469,trial,Octopus Centre for Net Zero,United Kingdom,276
+470,trial,Brandenburgische Technische UniversitÑt Cottbus-Se,Germany,277
+471,trial,UMons,Belgium,278
+472,trial,Tsinghua University,China,132
+473,trial,Thammasat University,Thailand,279
+474,trial,Helmholtz Centre for Environmental Research - UFZ,Germany,280
+475,trial,Tsinghua University,China,116
+476,trial,Brooklyn College,United States of America,281
+477,trial,Brooklyn College,United States of America,281
+478,trial,Danish Energy Agency,Denmark,282
+479,permanent,UCC,Ireland,13
+480,trial,PSI,Switzerland,283
+481,trial,Intergovernmental Panel on Climate Change,United Kingdom,284
+482,trial,"Norwegian University of Life Sciences, NMBU",Norway,285
+483,trial,Danish Energy Agency,Denmark,286
+484,trial,Luleaa university of technology,Sweden,287
+485,trial,Czech Hydrometeorological Institute,Czech Republic,288
+486,trial,IEA,France,289
+487,permanent,"Norwegian University of Life Sciences, NMBU",Norway,285
+488,trial,ISDEFE,SPAIN,266
+489,trial,UCL Institute for Sustainable Resources,United Kingdom,290
+490,trial,The University of Texas at El Paso,United States of America,256
+491,trial,Faculty of Nuclear Sciences and Physical Engineeri,Czech Republic,291
+492,trial,North China University Of Technology,China,292
+493,trial,Enel,Italy,34
+494,trial,Orsted Wind Power Germany GmbH,Germany,293
+495,trial,Bingo Corp,Germany,294
+496,trial,Paul Scherrer Institute,Switzerland,115
+497,trial,DFT,Brazil,296
+498,trial,Copenhagen Business School,Denmark,297
+499,trial,Institut ekonomick?ch studi°,Czech Republic,298
+500,trial,BNL,United States of America,299
+501,trial,Politecnico di Torino,Italy,300
+503,trial,GRTgaz,France,301
+504,trial,NMBU,Norway,133
+505,trial,FUNDACION TECNALIA,Spain,302
+506,trial,Vlaamse Instelling voor Technologis (VITO NV.),Belgium,303
+507,trial,Emerald Operating Partner,United States of America,304
+508,trial,Tsinghua University,China,305
+509,trial,Tsinghua University,China,306
+510,trial,Tsinghua University,China,306
+511,trial,Tsinghua University,China,307
+512,trial,insea,Morocco,308
+513,trial,China University of petroleum,China,309
+514,trial,Universidad Pontificia Comillas,Spain,310
+515,trial,UFPE,Brazil,311
+516,trial,University of Oslo,Norway,312
+517,trial,COWI AS,Norway,313
+518,trial,SRIE,Armenia,314
+519,trial,SRIE,Armenia,315
+520,trial,SRIE,Armenia,315
+521,trial,SRIE,Armenia,316
+522,trial,50118594f,Spain,250
+523,trial,Ecopetrol s.a.,Colombia,317
+524,trial,"China University of Mining & Technology,Beijing",CHINA,318
+525,permanent,GRTgaz,France,319
+526,permanent,Economic Research Institute JSC,Kazakhstan,320
+527,trial,Isdefe,Spain,107
+528,trial,Tsinghua University,China,305
+529,trial,MEKH,Hungary,321
+530,trial,HEA,Hungary,322
+531,permanent,Tsinghua University,China,323
+532,trial,Tsinghua University,China,305
+533,trial,Tsinghua University,China,324
+535,trial,HEA,Hungary,325
+536,trial,University of Texas at San Antonio,United States of America,187
+537,trial,NETL/KeyLogic,United States of America,326
+538,trial,The University of Queensland,Australia,327
+539,permanent,University of Auckland,New Zealand,328
+540,trial,CMA minesparistech,France,329
+541,trial,Agroconcept,Morocco,330
+542,trial,Programa de Planejamento EnergÇtico UFRJ,Brazil,331
+543,trial,bla bla PLC,Austria,332
+544,trial,Danish energy agency,Denmark,333
+545,trial,KeyLogic,United States of America,334
+546,trial,Teesside University,United Kingdom,335
+547,trial,school,CHINA,336
+548,trial,school,CHINA,337
+549,trial,Israel Energy Ministry,Israel,338
+550,trial,IFPEN,France,169
+551,trial,IMPERIAL COLLEGE,UNITED KINGDOM,339
+552,trial,Ca' Foscari University,Italy,340
+553,trial,Syddansk Universitet Odense,Denmark,263
+554,trial,SDU,Denmark,341
+555,trial,Universidad de Zaragoza,Spain,342
+556,trial,DTU,Denmark,343
+557,trial,STOP ltd,Uganda,344
+558,trial,STOP ltd,Uganda,345
+559,trial,STOP ltd,Uganda,345
+560,trial,Independent Consultant,Armenia,346
+561,trial,MEKH,Hungary,321
+562,trial,HEA,Hungary,325
+563,trial,Athlone IT,Ireland,347
+564,trial,NETL,United States of America,348
+565,trial,50118594f,Spain,250
+566,trial,Isdefe,Spain,176
+567,trial,ISDEFE,SPAIN,266
+568,trial,Intergovernmental Panel on Climate Change,United Kingdom,284
+569,trial,The University of Edinburgh,United Kingdom,349
+570,trial,LEAP s.c.a.r.l.,Italy,350
+571,trial,Isdefe,Spain,107
+572,trial,Personal,Spain,351
+573,trial,NREA,Egypt,352
+574,trial,KASA,Malaysia,353
+575,trial,Jawaharlal Nehru University,India,354
+576,trial,Hungarian Energy and Public Utility Regulatory Aut,Hungary,355
+577,trial,Hungarian Energy and Public Utility Regulatory Aut,Hungary,356
+578,trial,Hungarian Energy and Public Utility Regulatory Aut,Hungary,357
+579,trial,University of Glasgow,United Kingdom,358
+580,trial,Tinbergen Institute,Netherlands,359
+581,trial,Tinbergen Institute,Netherlands,359
+582,trial,fsd,NULL,360
+583,trial,Suruhanjaya Tenaga,Malaysia,361
+584,trial,Ministry of Environment and Water,Malaysia,362
+585,trial,ENERGY COMMISSION,MALAYSIA,363
+586,trial,Ministry of Environment and Water,Malaysia,364
+587,trial,Tenaga Nasional Berhad,Malaysia,365
+588,trial,Single Buyer,Malaysia,366
+589,trial,Single Buyer,Malaysia,367
+590,trial,Energy Commission,Malaysia,368
+591,trial,Institute of Economic Studies,Czech Republic,369
+592,trial,The University of Texas at El Paso,United States of America,256
+593,trial,The University of Texas at El Paso,United States of America,370
+594,trial,University of Texas at El Paso,United States of America,371
+595,trial,Medellin Studio,United States of America,372
+596,trial,Suruhanjaya Tenaga,Malaysia,373
+597,trial,Tsinghua,China,79
+598,trial,KSE,Ukraine,374
+599,trial,none,Benin,375
+600,trial,The University of Texas at El Paso,United States of America,272
+601,permanent,Centro Regional de Estudios de Energia,Colombia,376
+602,trial,Cant say,Denmark,377
+603,trial,SPW-Energie,Belgium,224
+604,trial,none,Benin,378
+605,trial,Jawaharlal Nehru University,India,354
+606,trial,university of tehran,Iran,379
+607,trial,C.E.D.A.,United States of America,380
+608,trial,CRES,Greece,381
+609,trial,SPW,Belgium,382
+610,trial,University of Stuttgart,Germany,383
+611,trial,Service Public de Wallonie,Belgium,384
+612,trial,"QUEST, Nawabshah",Pakistan,385
+613,trial,ICEDD asbl,Belgium,386
+614,trial,ICEDD asbl,Belgium,386
+615,trial,ICEDD asbl,Belgium,386
+616,trial,ICEDD asbl,Belgium,386
+617,trial,Hungarian Energy and Public Utility Regulatory Aut,Hungary,387
+618,trial,University of Texas at El Paso,United States of America,388
+619,trial,chomage,Belgium,389
+620,permanent,United Nations Development Programme,Malaysia,390
+621,trial,NONE,Benin,391
+622,trial,Hangzhou Dianzi University,China,392
+623,trial,Ademash Nigeria Ltd,Nigeria,393
+624,trial,RWTH Aachen University,Germany,394
+625,trial,REKK Foundation,Hungary,395
+626,trial,University of Glasgow,United Kingdom,396
+627,trial,Tsinghua University,China,305
+628,trial,hanyang university,South Korea,397
+629,trial,hanyang university,South Korea,397
+630,permanent,Rhodium Group,United States of America,398
+631,trial,IVL Svenska Miljîinstitutet AB,Sweden,183
+632,trial,Jawaharlal Nehru University,India,354
+633,trial,IVL,Sweden,106
+634,trial,UCC,Ireland,13
+635,trial,CRES,Greece,381
+636,trial,University College Cork,Ireland,399
+637,trial,UCC,Ireland,77
+638,trial,IFE,Norway,400
+639,trial,Deloitte,Argentina,401
+640,trial,Saudi Aramco,Saudi Arabia,402
+641,trial,N/A,United Kingdom,403
+642,trial,KASA,Malaysia,404
+643,trial,KASA,Malaysia,405
+644,trial,ETSAP,Greece,406
+645,trial,Energy Modelling Lab,Denmark,129
+646,permanent,Energy Strategy Center of SRIE,Armenia,407
+647,trial,University of Stuttgart - Institute of Energy Econ,Germany,408
+648,trial,Free University of Tbilisi,Georgia,409
+649,trial,Ministry of Energy,Jamaica,410
+650,trial,AIST,Japan,411
+651,trial,Imperial College London,United Kingdom,157
+652,trial,E.T.S.,Canada,412
+653,trial,KPMG-Ukraine,Ukraine,413
+654,trial,ISDEFE,SPAIN,266
+655,trial,Politecnico di Torino,Italy,300
+656,permanent,IVL Svenska Miljîinstitutet AB,Sweden,183
+657,permanent,The University of Texas at El Paso,United States of America,272
+658,trial,Imperial College London,United Kingdom,28
+659,trial,Remissia,Georgia,414
+660,trial,PwC Advisory LLC,Japan,415
+661,trial,Thammasat University,Thailand,279
+662,trial,??,China,416
+663,trial,China University of mining and Technology,China,417
+664,trial,NETL DOE,United States of America,418
+665,trial,Sustainable development Center Remissia,Georgia,419
+666,trial,VITO NV (The Flemish institute for technological r,Belgium,420
+667,trial,China University of Geosciences,China,421
+668,trial,TU Delft,Netherlands,422
+669,trial,GUtech,Oman,423
+670,trial,Student Politecnico di Milano,Italy,424
+671,trial,University of Texas at El Paso,United States of America,388
+672,trial,University,NULL,425
+674,permanent,Columbia University,United States of America,426
+675,trial,FUNDACION TECNALIA ,Spain,427
+676,trial,NETL DOE,United States of America,418
+677,trial,University of Glasgow,United Kingdom,358
+678,permanent,KEEI,South Korea,428
+679,trial,University of Glasgow,United Kingdom,358
+680,trial,University of Glasgow,United Kingdom,358
+681,trial,University of Glasgow,United Kingdom,358
+682,trial,National Institute for Strategic Studies,Ukraine,429
+683,trial,MITERD,Spain,430
+684,trial,University of Strathclyde,United Kingdom,431
+685,permanent,University of Glasgow,United Kingdom,358
+686,trial,Czech hydrometeorological institute,Czech Republic,432
+687,permanent,Orsted Wind Power Germany GmbH,Germany,293
+688,trial,Isdefe,Spain,107
+689,trial,Riga Technical University,Latvia,171
+690,trial,Riga Technical University,Latvia,171
+691,trial,Dalian University of Technology,China,275
+692,trial,University College Cork,Ireland,85
+693,trial,University of Science Techniques and Technologies ,Mali,433
+694,trial,wascal DRP_Niger ,Mali,434
+695,trial,University of Stuttgart,Germany,383
+696,trial,Uni Stuttgart,Deutschland,435
+697,trial,BHP,Singapore,436
+698,trial,IFE,Norway,437
+699,trial,Univeristy College London,United Kingdom,438
+700,trial,National Institute of Advanced Industrial Science ,Japan,439
+701,permanent,CSTEP,India,440
+702,trial,Rocco De Miglio,Italy,441
+703,trial,University of Notre Dame,United States of America,442
+704,trial,University College Cork,Ireland,443
+705,trial,Tsinghua University,China,305
+706,trial,Ural Federal University,Russia,444
+707,permanent,MEKH,Hungary,321
+708,trial,University of Glasgow,United Kingdom,396
+709,trial,Tsinghua University,China,305
+710,trial,AIST,Japan,411
+711,trial,IRENA,Germany,445
+712,trial,RSE - Ricerca sul Sistema Energetico,Italy,446
+713,trial,RSE,Italy,447
+714,trial,RSE,Italy,193
+715,trial,Universitaet Stuttgart,Deutschland,448
+716,trial,universitÖ di bologna,Italy,449
+717,trial,KSE,Ukraine,450
+718,trial,DEA,Denmark,78
+719,trial,DEA,Denmark,98
+720,trial,Tsinghua University,China,451
+721,trial,Tsinghua University,China,451
+722,trial,universitÖ di bologna,Italy,449
+723,trial,Ministry of Energy,Jamaica,410
+724,trial,MSET,Jamaica,452
+725,trial,Jawaharlal Nehru University,India,354
+726,trial,"Ministry of Science, Energy and Technology",Jamaica,453
+727,trial,MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY,INDIA,454
+728,trial,Agrarian university of Tbilisi,Georgia,455
+729,trial,FUNDACION TECNALIA,Spain,302
+730,trial,CAS,China,456
+731,trial,China University of Geosciences(Wuhan),China,457
+732,trial,Politecnico di Torino,Italy,458
+733,trial,Consorzio RFX,Italy,459
+734,trial,UNU-GTP,Iceland,253
+735,permanent,FUNDACION TECNALIA,Spain,302
+736,trial,BCG,Australia,460
+737,trial,Peking University,China,461
+738,trial,Politecnico di Torino,Italy,462
+739,trial,"China University of Petroleum,Beijing",China,463
+740,trial,University of Bath,United Kingdom,464
+741,trial,Tsinghua University,China,16
+742,trial,Tsinghua University,China,465
+743,trial,Tsinghua University,China,307
+744,trial,Tsinghua University,China,16
+745,trial,Tsinghua University,China,466
+746,trial,PwC Advisory LLC,Japan,415
+747,trial,Damietta university/ Egypt,China,467
+748,trial,maia,Spain,468
+749,trial,Paul Scherrer Institute,Switzerland,469
+750,trial,Taras Shevchenko National University of Kyiv,Ukraine,470
+751,trial,CHMI,Czech Republic,471
+752,trial,Chalmers,Sweden,472
+753,trial,University of Oxford,United Kingdom,473
+754,trial,FST,Mali,474
+755,trial,FST,Mali,475
+756,trial,University Stuttgart,Germany,476
+757,trial,Linkîping university,Sweden,477
+758,trial,RSE,Italy,96
+759,trial,Ajou University,South Korea,478
+760,trial,KPMG,Russia,479
+761,trial,QEERI,Qatar,241
+762,trial,"China University of Petroleum,Beijing",China,463
+763,trial,CHMI,Czech Republic,471
+764,trial,BES,Pakistan,480
+765,trial,BES,Pakistan,481
+766,trial,CHMI,Czech Republic,471
+767,trial,CHMI,Czech Republic,471
+768,trial,Ministäre des finances,Canada,482
+769,trial,Indian Institute of Technology Madras,India,483
+770,trial,dzadzadza,Belgium,484
+771,trial,SPW-Energie,Belgium,224
+772,trial,princeton university,United States of America,485
+773,trial,University of California Santa Barbara,United States of America,486
+774,trial,Purdue University,United States of America,487
+775,trial,Tsinghua University,China,451
+776,trial,Tsinghua University,China,451
+777,permanent,Energy ministry Azerbaijan,Azerbaijan,488
+778,trial,universitÖ di bologna,Italy,449
+779,trial,E4SMA,Italy,87
+780,trial,Shanghai University of Finance and Economics,China,489
+781,trial,UniversitÑt Stuttgart,Deutschland,490
+782,trial,Mitsubishi Heavy Industries,Japan,491
+783,trial,IFE,Latvia,492
+784,trial,IFE,Norway,126
+785,permanent,IFE,Latvia,492
+786,trial,UCSB ,United States of America,493
+787,trial,UCSB ,United States of America,493
+788,trial,Ministry of National Economy,Kazakhstan,494
+789,trial,Danish Energy Agency,Denmark,495
+790,trial,"China University of Geosciences , Wuhan",China,496
+791,trial,Carleton University,Canada,497
+792,trial,xenera,japan,498
+793,trial,waseda,Japan,499
+794,trial,King Abdullah University of Science and Technology,Saudi Arabia,500
+795,trial,paid by Princeton,United States of America,501
+796,trial,EECA,New Zealand,502
+797,trial,ShanXi Univercity,China,503
+798,trial,IEA,France,504
+799,trial,EECA,New Zealand,505
+800,trial,Imperial College London,United Kingdom,506
+801,trial,CONICET,Argentina,507
+802,trial,Imperial college london,United Kingdom,508
+803,trial,private,kenya,509
+804,trial,Lulea University of Thechnology,Sweden,205
+805,trial,"UTM, Malaysia",Malaysia,510
+806,trial,Politecnico di Torino,Italy,511
+807,trial,"Beijing Normal University, China",China,512
+808,trial,Volt Robotics,Brazil,513
+809,trial,UIS,Colombia,514
+810,trial,CEA,France,515
+811,trial,Cea,France,516
+812,trial,universitÖ di bologna,Ireland,517
+813,trial,Rhodium Group,France,518
+814,trial,Rhodium Group,France,519
+815,permanent,Ecopetrol s.a.,Colombia,317
+816,trial,Marmara University,Turkey,520
+817,trial,Ministry of Electrical ,Iraq,521
+818,trial,CEA,France,522
+819,trial,Lviv Business School,Ukraine,523
+820,trial,CEA,FRANCE,524
+821,trial,CEA,France,525
+822,trial,CEA,France,526
+823,trial,work,jamaica,527
+824,trial,Princeton University,United States of America,528
+825,trial,Kyiv School of Economics Inc.,Ukraine,529
+826,trial,Kyiv School of Economics,Ukraine,530
+827,trial,Jagiellonian University,Poland,531
+828,permanent,PwC Advisory LLC,Japan,415
+830,permanent,National University of Singapore,Singapore,625
+831,trial,private,kenya,509
+832,permanent,Kyiv School of Economics Inc.,Ukraine,529
+833,trial,Imperial College London,United Kingdom,533
+834,trial,Free University of georgia,Georgia,534
+835,trial,"SHANGHAI ADVANCED RESEARCH INSTITUTE,CAS",China,535
+836,trial,imperial college london,United Kingdom,209
+837,trial,USP,Brazil,536
+838,trial,EUROSOLAR TURKEY,Turkey,537
+839,trial,?Ö N?ng University,Vietnam,538
+840,trial,PECC4,Vietnam,539
+841,trial,University College London,United Kingdom,540
+842,trial,Cornell University,United States of America,541
+843,trial,Politecnico di Torino,Italy,462
+844,trial,UCL,United Kingdom,542
+845,trial,KAPSARC,Saudi Arabia,543
+846,trial,NOVA university of lisbon.,Portugal,544
+847,trial,IER Uni Stuttgart,Germany,159
+848,trial,ENARGAS,Argentina,545
+849,trial,IFE,Norway,113
+850,trial,personal,China,546
+851,trial,imperial college london,united kingdom,547
+852,trial,IARTC,Turkey,548
+853,trial,UTSA,United States of America,549
+854,trial,TNO,Netherlands,550
+855,trial,Cyprus International University,Cyprus,551
+856,trial,Carleton University,Canada,552
+857,permanent,CHMI,Czech Republic,471
+858,trial,personal,China,546
+859,trial,UCSB,United States of America,553
+860,trial,E4SMA,Italy,87
+861,trial,privat,Germany,554
+862,trial,50118594f,Spain,250
+863,trial,Technische UniversitÑt Braunschweig,Germany,555
+864,permanent,Saudi Aramco,Saudi Arabia,556
+865,trial,WiseEuropa,Poland,557
+866,trial,WiseEuropa,Poland,558
+867,trial,Johns Hopkins University,United States of America,559
+868,trial,The European House - Ambrosetti,Italy,560
+869,trial,Institute for energy technology,Norway,561
+870,trial,Gdansk University of Technology,Poland,562
+871,trial,Columbia University,Canada,563
+872,trial,THU,China,564
+873,trial,University of Stuttgart,Germany,164
+874,trial,Columbia University,United States of America,565
+875,trial,University of Texas at El Paso,United States of America,566
+876,trial,UTSA,United States of America,549
+877,trial,columbia university,United States of America,567
+878,trial,RSE - Ricerca sul Sistema Energetico,Italy,568
+879,trial,CHMI,Czech Republic,569
+880,trial,University of Glasgow,United Kingdom,396
+881,trial,Columbia University,United States of America,570
+882,trial,Charles University,Czech Republic,571
+883,trial,University of Stuttgart,Germany,155
+884,trial,Georgia Tech ,United States of America,572
+885,trial,IIT Bombay,India,573
+886,trial,MIT,United States of America,574
+887,trial,Centro Regional de Estudios de Energia,Colombia,376
+888,trial,UCSB,United States of America,575
+889,trial,University,Germany,576
+890,trial,Mitsubishi Heavy Industries,Japan,577
+891,trial,IIT Bombay,India,573
+892,trial,Imperial College London,United Kingdom,578
+893,trial,Deutsche Gesellschaft fÅr Internationale Zusammena,Germany,579
+894,permanent,UIS,Colombia,514
+895,trial,ENEA,Italy,580
+896,trial,Private,Germany,581
+897,trial,GIZ,Germany,582
+898,trial,GIZ,Germany,583
+899,trial,GIZ,Germany,584
+900,trial,Climate Change Commission,New Zealand,585
+901,permanent,paid by Princeton,United States of America,501
+902,trial,GIZ,Germany,587
+903,trial,Columbia University - Sustainability Science ,United States of America,588
+904,trial,University of Glasgow,United Kingdom,396
+905,trial,NITI Aayog,India,589
+906,trial,University of Ulster,Northern Ireland,590
+907,trial,University of Ulster,Northern Ireland,590
+908,trial,University Stuttgart,Germany,476
+909,trial,GIZ,Germany,591
+910,trial,GIZ,Germany,592
+911,trial,GIZ GmbH,Germany,593
+912,trial,GIZ,Deutschland,594
+913,trial,asd,Afghanistan,595
+914,trial,EXERGIA,Greece,596
+915,trial,Chinese Academy of Sciences,China,597
+916,trial,Shanxi university,China,598
+917,trial,SHANDONG UNIVERSITY OF FINANCE AND ECONOMICS,CHINA,599
+918,trial,KTH Royal Institute of Technology,Sweden,600
+919,trial,e4sma,Italy,601
+920,trial,Energy and Sustainability,Kenya,602
+921,trial,Gesellschaft fÅr internationale Zusammenarbeit (GI,South Africa,603
+922,trial,GIZ,Benin,604
+923,trial,GIZ,Germany,605
+924,trial,GIZ,Germany,606
+925,trial,GIZ,Germany,607
+926,trial,UNIWA,Greece,608
+927,trial,UCL Energy Institute,United Kingdom,609
+928,trial,TU Dublin,Ireland,610
+929,trial,The Technical University of Denmark,Denmark,611
+930,trial,The Technical University of Denmark,Denmark,611
+931,trial,Danmarks Tekniske Universitet,Denmark,612
+932,trial,The Technical University of Denmark,Denmark,611
+933,trial,Technical University of Denmark,Denmark,613
+934,trial,University of Texas San Antonio,United States of America,614
+935,trial,University College London,United Kingdom,615
+936,trial,Department of Energy Technology,Sweden,616
+937,trial,Shakti Sustainable Energy Foundation,India,617
+938,trial,Pedagogical University of Krakow,Poland,618
+939,trial,Uni Stuttgart,Deutschland,435
+940,trial,Ulster University,United Kingdom,619
+941,trial,Montclair State University,United States of America,620
+942,trial,University of Indonesia,Indonesia,621
+943,permanent,Makerere University,Uganda,622
+944,trial,EUROSOLAR TURKEY,Turkey,537
+945,trial,ShanXi Univercity,China,503
+946,trial,Student,United Kingdom,623
+947,trial,PECC4,Vietnam,624
+948,trial,?Ö N?ng University,Vietnam,538
+949,trial,National University of Singapore,Singapore,625
+950,trial,University of Texas San Antonio,United States of America,626
+951,trial,E4SMA,Italy,627
+952,trial,University of Texas San Antonio,United States of America,628
+953,trial,A*STAR,Singapore,629
+954,trial,KTH Royal Institute of Technology,Sweden,600
+955,trial,E4SMA,Italy,7
+956,trial,University of Texas San Antonio,United States of America,630
+957,trial,University of Liege,Belgium,631
+958,trial,Columbia University,United States of America,632
+959,trial,Columbia University,United States of America,633
+960,trial,University,United Kingdom,634
+961,trial,NUS,Singapore,635
+962,trial,Kyoto University,Japan,636
+963,trial,Imperial College London,United Kingdom,637
+964,trial,IAU,Iran,638
+965,trial,UiO,Norway,639
+966,trial,Columbia University,United States of America,640
+967,trial,gahr,France,641
