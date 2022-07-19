@@ -1,0 +1,72 @@
+Country,CapitalName,CapitalLatitude,CapitalLongitude,CountryCode,Total
+Afghanistan,Kabul,34.51666667,69.183333,AF,2
+Argentina,Buenos Aires,-34.58333333,-58.666667,AR,3
+Armenia,Yerevan,40.16666667,44.5,AM,5
+Australia,Canberra,-35.26666667,149.133333,AU,7
+Austria,Vienna,48.2,16.366667,AT,2
+Azerbaijan,Baku,40.38333333,49.866667,AZ,1
+Belgium,Brussels,50.83333333,4.333333,BE,14
+Benin,Porto-Novo,6.483333333,2.616667,BJ,4
+Brazil,Brasilia,-15.78333333,-47.916667,BR,5
+Bulgaria,Sofia,42.68333333,23.316667,BG,2
+Burkina Faso,Ouagadougou,12.36666667,-1.516667,BF,1
+Canada,Ottawa,45.41666667,-75.7,CA,15
+China,Beijing,39.91666667,116.383333,CN,44
+Colombia,Bogota,4.6,-74.083333,CO,3
+Cyprus,Nicosia,35.16666667,33.366667,CY,1
+Czech Republic,Prague,50.08333333,14.466667,CZ,10
+Denmark,Copenhagen,55.66666667,12.583333,DK,36
+Egypt,Cairo,30.05,31.25,EG,1
+Finland,Helsinki,60.16666667,24.933333,FI,4
+France,Paris,48.86666667,2.333333,FR,25
+Georgia,Tbilisi,41.68333333,44.833333,GE,14
+Germany,Berlin,52.51666667,13.4,DE,36
+Greece,Athens,37.98333333,23.733333,GR,8
+Hungary,Budapest,47.5,19.083333,HU,10
+Iceland,Reykjavik,64.15,-21.95,IS,1
+India,New Delhi,28.6,77.2,IN,20
+Indonesia,Jakarta,-6.166666667,106.816667,ID,2
+Iran,Tehran,35.7,51.416667,IR,8
+Iraq,Baghdad,33.33333333,44.4,IQ,1
+Ireland,Dublin,53.31666667,-6.233333,IE,12
+Israel,Jerusalem,31.76666667,35.233333,IL,1
+Italy,Rome,41.9,12.483333,IT,32
+Jamaica,Kingston,18,-76.8,JM,4
+Japan,Tokyo,35.68333333,139.75,JP,15
+Kazakhstan,Astana,51.16666667,71.416667,KZ,6
+Kenya,Nairobi,-1.283333333,36.816667,KE,2
+Latvia,Riga,56.95,24.1,LV,4
+Malaysia,Kuala Lumpur,3.166666667,101.7,MY,14
+Mali,Bamako,12.65,-8,ML,4
+Mexico,Mexico City,19.43333333,-99.133333,MX,1
+Morocco,Rabat,34.01666667,-6.816667,MA,2
+Nepal,Kathmandu,27.71666667,85.316667,NP,1
+Netherlands,Amsterdam,52.35,4.916667,NL,7
+New Zealand,Wellington,-41.3,174.783333,NZ,8
+Nigeria,Abuja,9.083333333,7.533333,NG,1
+Northern Ireland,Belfast,54.607868,-5.926437,NIR,1
+Norway,Oslo,59.91666667,10.75,NO,17
+Oman,Muscat,23.61666667,58.583333,OM,1
+Pakistan,Islamabad,33.68333333,73.05,PK,5
+Poland,Warsaw,52.25,21,PL,6
+Portugal,Lisbon,38.71666667,-9.133333,PT,3
+Qatar,Doha,25.28333333,51.533333,QA,1
+Russia,Moscow,55.75,37.6,RU,2
+Saudi Arabia,Riyadh,24.65,46.7,SA,4
+Scotland,Edinburgh,55.953251,-3.188267,SCT,1
+Serbia,Belgrade,44.83333333,20.5,RS,2
+Singapore,Singapore,1.283333333,103.85,SG,6
+Slovakia,Bratislava,48.15,17.116667,SK,1
+South Africa,Pretoria,-25.7,28.216667,ZA,1
+South Korea,Seoul,37.55,126.983333,KR,12
+Spain,Madrid,40.4,-3.683333,ES,22
+Sweden,Stockholm,59.33333333,18.05,SE,18
+Switzerland,Bern,46.91666667,7.466667,CH,4
+Taiwan,Taipei,25.03333333,121.516667,TW,2
+Thailand,Bangkok,13.75,100.516667,TH,4
+Turkey,Ankara,39.93333333,32.866667,TR,7
+Uganda,Kampala,0.316666667,32.55,UG,4
+Ukraine,Kyiv,50.43333333,30.516667,UA,8
+United Kingdom,London,51.5,-0.083333,GB,39
+United States of America,Washington,38.883333,-77,USA,67
+Vietnam,Hanoi,21.03333333,105.85,VN,3
